@@ -151,7 +151,7 @@ The project can support Digital Public Goods principles through:
 
 *These principles are project goals; full compliance would require further review and development.*
 
-## 👩‍💻 Author
+## 👩‍💻 Doris Banadette Bockarie
 
 **Student Project — Crop Yield Monitoring System**
 
